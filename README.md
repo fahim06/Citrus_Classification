@@ -60,7 +60,7 @@ The performance of the models was evaluated to identify the most suitable archit
 | Model         |  Accuracy  | Precision  |   Recall   | F1-Score |
 | :------------ | :--------: | :--------: | :--------: | :------: |
 | **MobileNet** | **99.85%** | **99.66%** | **99.52%** | **0.99** |
-| Inception V3  |     -      |     -      |     -      |    -     |
+| Inception V3  | **98.90%** | **96.88**  | **99.32**  | **0.97** |
 
 _[Source: Experimental results demonstrated that MobileNet outperformed the other models in terms of accuracy is 99.85%, precision is 99.66%, recall is 99.52% and Fl-score is 0.99.]_
 
