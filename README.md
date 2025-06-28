@@ -36,6 +36,7 @@ The eight genera included are:
 - Tangelo
 - Toronja
   The dataset was carefully curated and split into training, validation, and testing sets for rigorous model evaluation.
+  ![Link of the dataset](https://www.kaggle.com/datasets/fahimyusuf/citrus/data)
 
 ## ⚙️ Methodology
 
