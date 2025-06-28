@@ -24,7 +24,7 @@ Citrus fruits are a significant part of the global agricultural landscape, value
 
 ## 🖼️ Dataset
 
-The study utilized a comprehensive dataset sourced from Kaggle, consisting of **22,348 images** of eight different citrus genera.
+The study utilized a comprehensive dataset sourced from [Kaggle](https://www.kaggle.com/datasets/fahimyusuf/citrus/data), consisting of **22,348 images** of eight different citrus genera.
 
 The eight genera included are:
 
@@ -36,7 +36,7 @@ The eight genera included are:
 - Tangelo
 - Toronja
   The dataset was carefully curated and split into training, validation, and testing sets for rigorous model evaluation.
-  ![Link of the dataset](https://www.kaggle.com/datasets/fahimyusuf/citrus/data)
+  
 
 ## ⚙️ Methodology
 
